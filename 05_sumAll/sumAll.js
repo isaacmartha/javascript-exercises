@@ -14,5 +14,6 @@ const sumAll = function (min, max) {
     return sum;
   };
 
+
 // Do not edit below this line
 module.exports = sumAll;
